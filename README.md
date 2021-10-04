@@ -13,3 +13,5 @@
 #### La clase Guardar es la encarga de de hacer como tal la persistencia de los datos, esta guarda la informacion del jugador en un archivo de texto y lo separa con comas.
 
 ### A medida que el jugador avance la complejidad de las preguntas irá aumentando e irá cambiando la categoría de las preguntas, en este caso existen 5 categorias como se puede apreciar, cada una en aumento de complejidad.
+
+## Los archivos tienen una ruta preconfigurada, se recomienda cambiar las rutas para poder ejecutar el programa de forma correcta. Al momento de descargar los archivos del repo, coopiar la ruta de los archivos de texto que este contiene y modificarlos en el codigo para que funcione.
