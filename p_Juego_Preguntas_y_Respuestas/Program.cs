@@ -72,7 +72,7 @@ namespace p_Juego_Preguntas_y_Respuestas
                     Console.WriteLine("Después de que respondas bien la primera preguntas podrás retirarte con los puntos que tengas");
                     Console.WriteLine("Si te equivocas, perderás todos los puntos que tienes y el juego se acabará");
 
-                    //Muestro la primera pregunta que debe ser de la categoria Historia, en este caso no se permite al jugador abandonar el juego, debe responder
+                    
                     Ronda rondas = new Ronda(creador, jug1, jueg1);
 
                     rondas.round_(jueg1, creador, jug1);

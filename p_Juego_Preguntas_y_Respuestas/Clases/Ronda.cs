@@ -35,6 +35,7 @@ namespace p_Juego_Preguntas_y_Respuestas.Clases
                 int v_1 = r.Next(0, 4);
                 juego.primera_pregunta(user, v_1);
                 string eleccion_1;
+                //se le pide al jugador que ingrese una eleccion
                 Console.Write("Elige una opcion: ");
                 eleccion_1 = Console.ReadLine();
                 if (eleccion_1 == user.L_respuestas[v_1])
@@ -52,6 +53,7 @@ namespace p_Juego_Preguntas_y_Respuestas.Clases
                 juego.segunda_pregunta(user, v_2);
                 string eleccion_2;
                 Console.Write("Elige una opcion: ");
+                //se le pide al jugador que ingrese una eleccion
                 eleccion_2 = Console.ReadLine();
                 if (eleccion_2 == user.L_respuestas[v_2])
                 {
@@ -73,6 +75,7 @@ namespace p_Juego_Preguntas_y_Respuestas.Clases
                 int v_3 = r.Next(10, 14);
                 juego.tercera_pregunta(user, v_3);
                 string eleccion_3;
+                //se le pide al jugador que ingrese una eleccion
                 Console.Write("Elige una opcion: ");
                 eleccion_3 = Console.ReadLine();
                 
@@ -97,6 +100,7 @@ namespace p_Juego_Preguntas_y_Respuestas.Clases
                 int v_4 = r.Next(15, 19);
                 juego.cuarta_pregunta(user, v_4);
                 string eleccion_4;
+                //se le pide al jugador que ingrese una eleccion
                 Console.Write("Elige una opcion: ");
                 eleccion_4 = Console.ReadLine();
                 if (eleccion_4 == user.L_respuestas[v_4])
@@ -120,6 +124,7 @@ namespace p_Juego_Preguntas_y_Respuestas.Clases
                 int v_5 = r.Next(20, 24);
                 juego.quinta_pregunta(user, v_5);
                 string eleccion_5;
+                //se le pide al jugador que ingrese una eleccion
                 Console.Write("Elige una opcion: ");
                 eleccion_5 = Console.ReadLine();
                 if (eleccion_5 == user.L_respuestas[v_5])
