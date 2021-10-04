@@ -1,0 +1,5 @@
+Historia,
+Geografía,
+Entretenimiento,
+Arte y Literatura,
+Ciencia y Naturaleza

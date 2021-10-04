@@ -1,0 +1,16 @@
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\bin\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.exe
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\bin\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.deps.json
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\bin\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.runtimeconfig.json
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\bin\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.runtimeconfig.dev.json
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\bin\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.dll
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\bin\Debug\net5.0\ref\p_Juego_Preguntas_y_Respuestas.dll
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\bin\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.pdb
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.csproj.AssemblyReference.cache
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.AssemblyInfoInputs.cache
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.AssemblyInfo.cs
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.csproj.CoreCompileInputs.cache
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.dll
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\ref\p_Juego_Preguntas_y_Respuestas.dll
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.pdb
+C:\Users\Antony Sanchez\source\repos\p_Juego_Preguntas_y_Respuestas\p_Juego_Preguntas_y_Respuestas\obj\Debug\net5.0\p_Juego_Preguntas_y_Respuestas.genruntimeconfig.cache
